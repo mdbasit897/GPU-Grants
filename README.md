@@ -58,3 +58,23 @@ _Communication regarding applications and awards are via aws-research-credit@ama
 Qualifying researchers up to $5,000 in cloud credits to develop and showcase their work using Lambda's On-Demand Cloud platform, with select research to be featured on their website.
 
 ```
+[HOSTKEY GPU Grant Program for Research Projects and Startups] (https://landing.hostkey.com/grant_for_scientific_projects_formhtml)
+
+```
+The program is open to specialists and professionals in the data science sector performing research or other projects centered on innovative uses of GPU processing and which will glean practical results in the field of data science.
+```
+
+[Nebius research credits program](https://nebius.com/nebius-research-credits-program#form)
+
+```
+- Academic or scientific focus with clear objectives.
+- Submit your proposal during the two-week application window (opens monthly).
+- Up to 6 winners are selected and notified via email.
+- Innovative use of GPUs for AI, machine learning, data analytics or HPC.
+```
+
+[together.ai Research Credits Program Request](https://www.together.ai/forms/research-credits-program-request)
+
+```
+Research Credits Program offers small grants to students conducting research projects outside of formal classes. If you have a research idea that could benefit from a few hundred dollars in support, they invite you to apply through email (earlier by submitting the form). While the program isn’t widely advertised, it provides an opportunity to fund innovative projects. Recipients are kindly asked to acknowledge Together AI in their work.
+```
